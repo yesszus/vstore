@@ -13,4 +13,5 @@
 define("LAN_PLUGIN_VSTORE_NAME", "Shop");
 define("LAN_PLUGIN_VSTORE_SUMMARY", "Egyszerű Virtuális Áruház e107 weboldalakra.");
 define("LAN_PLUGIN_VSTORE_DESCRIPTION", "Bevásárló rendszer e107 v2 weboldalakra.");
+
 ?>
